@@ -1,4 +1,4 @@
-### Futur Panda
+## Futur Panda
 
 ****
 **`Problem-solving generalist // a.k.a. Fullstack Web Dev`**
@@ -6,7 +6,9 @@
 I am a WIP full-stack web developper, on my way to help organizations and enterprises resolve hard problems with smart solutions. I started to learn web development in Decemeber 2022, as a late shift in career, because I want to help people to live better lives through software. Everything here is my contribution to the comunity and my playground to learn., and has been built from scratch. 
 
 
-
+### 🔭 I’m currently working on ...
+ 
+ - Readwise 2 Mem : a tool to import your hilights and notes from readwise to Mem, the AI powered note-taking app (More here : https://mem.ai/home/recents?subscriptionOverlay=true&subscriptionFlowPage=payment) 
 
 <!--
 **Hosaro/Hosaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
