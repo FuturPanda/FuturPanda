@@ -3,7 +3,7 @@
 ****
 **`Problem-solving generalist // a.k.a. Fullstack Web Dev`**
 
-I am a WIP full-stack web developper, on my way to help organizations and enterprises resolve hard problems with smart solutions. I started to learn web development in Decemeber 2022, as a late shift in career, because I want to help people to live better lives through software. Everything here is my contribution to the comunity and my playground to learn., and has been built from scratch. 
+I am a WIP full-stack web developper, on my way to help organizations and enterprises resolve hard problems with smart solutions. I started to learn web development in December 2022, as a late shift in career, because I want to help people to live better lives through software. Everything here is my contribution to the community and my playground to learn.
 
 
 ### 🔭 I’m currently working on ...
