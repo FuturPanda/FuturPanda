@@ -8,7 +8,7 @@ I am a WIP full-stack web developper, on my way to help organizations and enterp
 
 ### 🔭 I’m currently working on ...
  
- - Readwise 2 Mem : a tool to import your hilights and notes from readwise to Mem, the AI powered note-taking app (More here : https://mem.ai/home/recents?subscriptionOverlay=true&subscriptionFlowPage=payment) 
+ - Readwise 2 Mem : a tool to import your highlights and notes from readwise to Mem, the AI powered note-taking app (More here : https://mem.ai/home/recents?subscriptionOverlay=true&subscriptionFlowPage=payment) 
 
 <!--
 **Hosaro/Hosaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
