@@ -1,6 +1,7 @@
 ## Hoareau Steevy
-***
+
 **`Ancien Barista reconverti Apprenti Developpeur IA / Machine learning Engineer`**
+***
 
 J'ai pris la décision de me réorienter après une carrière dans l'hôtellerie restauration, dans un domaine qui allie mes passions d'enfance : les mathématiques, et les ordinateurs.
 
