@@ -1,6 +1,6 @@
 ## Hoareau Steevy
 
-**`Ancien Barista reconverti Apprenti Developpeur IA / Machine learning Engineer`**
+**`Je joue avec des lettres pour construire des trucs cool.`**
 ***
 
 
