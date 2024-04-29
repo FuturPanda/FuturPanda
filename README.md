@@ -1,6 +1,6 @@
 ## Hoareau Steevy
 
-**`Je joue avec des lettres pour construire des trucs cool.`**
+**  **
 ***
 
 
